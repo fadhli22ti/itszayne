@@ -34,5 +34,23 @@
     "category": "fantasi",
     "path": "fantasi/Echoes of the Reverse Planet.cbz",
     "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/fantasi/cover.jpg"
+  },
+  {
+    "name": "The Heavenly Demon Wants a Quiet Life",
+    "category": "drama",
+    "path": "drama/The Heavenly Demon Wants a Quiet Life.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/drama/cover.jpg"
+  },
+  {
+    "name": "The Hero Starts Over at the Academy",
+    "category": "drama",
+    "path": "drama/The Hero Starts Over at the Academy.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/drama/cover.jpg"
+  },
+  {
+    "name": "The Knight King Who Returned with a God",
+    "category": "drama",
+    "path": "drama/The Knight King Who Returned with a God.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/drama/cover.jpg"
   }
 ]
