@@ -1,39 +1,38 @@
-{
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragon Slayer",
-  "status": "Ongoing",
-  "author": "Ryu",
-  "artist": "Studio Dragon",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 9.5,
-  "synopsis": "Setelah seluruh umat manusia musnah oleh sang Naga Penghancur, pahlawan terakhir umat manusia diberikan satu kesempatan kedua. Ia kembali ke masa lalu dengan ingatan utuh dan tekad bulat untuk mengubah takdir dunia. Kini, ia memulai perjalanannya kembali sebagai pembunuh naga terhebat yang pernah ada.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dragonslayer-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Masa Lalu yang Terulang",
-      "image_links": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/chapters/dragonslayer/ch1/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/chapters/dragonslayer/ch1/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/chapters/dragonslayer/ch1/003.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Langkah Pertama",
-      "image_links": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/chapters/dragonslayer/ch2/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/chapters/dragonslayer/ch2/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/chapters/dragonslayer/ch2/003.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Academy_s Genius Swordmaster",
+    "category": "action",
+    "path": "action/Academy_s Genius Swordmaster.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/action/cover.jpg"
+  },
+  {
+    "name": "Children of the Rune",
+    "category": "action",
+    "path": "action/Children of the Rune.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/action/cover.jpg"
+  },
+  {
+    "name": "Chronicles Of The Martial God_s Return",
+    "category": "action",
+    "path": "action/Chronicles Of The Martial God_s Return.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/action/cover.jpg"
+  },
+  {
+    "name": "A Cadet Becomes a Prophet",
+    "category": "fantasi",
+    "path": "fantasi/A Cadet Becomes a Prophet.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/fantasi/cover.jpg"
+  },
+  {
+    "name": "Crimson Reset",
+    "category": "fantasi",
+    "path": "fantasi/Crimson Reset.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/fantasi/cover.jpg"
+  },
+  {
+    "name": "Echoes of the Reverse Planet",
+    "category": "fantasi",
+    "path": "fantasi/Echoes of the Reverse Planet.cbz",
+    "cover": "https://cdn.jsdelivr.net/gh/fadhli22ti/itszayne@main/fantasi/cover.jpg"
+  }
+]
